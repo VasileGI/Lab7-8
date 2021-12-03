@@ -1,0 +1,5 @@
+﻿  T8.3.cpp
+C:\Users\Vasile\source\repos\T8.3\T8.3\T8.3.cpp(71,19): error C2352: 'Average::average': illegal call of non-static member function
+C:\Users\Vasile\source\repos\T8.3\T8.3\T8.3.cpp(15): message : see declaration of 'Average::average'
+C:\Users\Vasile\source\repos\T8.3\T8.3\T8.3.cpp(74,19): error C2352: 'Average::average': illegal call of non-static member function
+C:\Users\Vasile\source\repos\T8.3\T8.3\T8.3.cpp(15): message : see declaration of 'Average::average'
